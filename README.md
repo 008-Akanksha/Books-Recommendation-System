@@ -1,1 +1,1 @@
-# Books-Recommendation-System
+Books Recommendation System is designed to suggest books to users based on similarity in content or themes. The system provides personalized recommendations by suggesting books with similar content to those the user has previously read or shown interest in.
